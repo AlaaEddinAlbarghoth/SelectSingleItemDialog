@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SelectItemDialog</string>
+    <string name="click_to_select_an_item_please">Click to select an item, please</string>
+</resources>
